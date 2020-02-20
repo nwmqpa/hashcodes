@@ -26,3 +26,12 @@ if __name__ == "__main__":
     data = process_input(sys.argv[1])
     with open(sys.argv[2], "w") as f:
         f.write(json.dumps(data))
+
+
+"""
+2
+0 5
+0 1 2 3 4
+1 1
+5
+"""
