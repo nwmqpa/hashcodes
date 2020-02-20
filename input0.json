@@ -1,0 +1,38 @@
+{
+    "books": 6,
+    "libraries_nb": 2,
+    "days": 7,
+    "books_scores": [
+        1,
+        2,
+        3,
+        6,
+        5,
+        4
+    ],
+    "libraries": [
+        {
+            "books_nb": 5,
+            "signup_days": 2,
+            "books_per_day": 2,
+            "books": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "books_nb": 4,
+            "signup_days": 3,
+            "books_per_day": 1,
+            "books": [
+                0,
+                2,
+                3,
+                5
+            ]
+        }
+    ]
+}
